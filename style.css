@@ -1,0 +1,47 @@
+body{
+  color: white;
+  background: darkmagenta;
+}
+
+span{
+  font-size: 25px;
+}
+
+#camera, #result{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+
+#result_gesture_name{
+  color: black;
+}
+
+.gesture_name{
+  font-size: 40px;
+}
+
+.emoji{
+  font-size:48px;
+}
+
+h3{
+  letter-spacing: 5px;
+  background: cyan;
+  border-radius: 5px;
+  margin-left: 410px;
+  margin-right: 410px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+label{
+  background: white;
+  color: limegreen;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.ctpg{
+  margin-bottom: 20px;
+}
